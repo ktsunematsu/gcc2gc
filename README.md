@@ -1,2 +1,2 @@
-# pdf2ical
-Convert pdf calendar to ical format
+# gcc2gc
+Import garbage collection calendar to Google Calendar
