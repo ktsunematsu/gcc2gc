@@ -2,7 +2,7 @@ import re
 import pickle
 
 # Load the response from the file
-with open('response.pkl', 'rb') as f:
+with open("response_0.pkl", "rb") as f:
     response = pickle.load(f)
 
 # Extract the OCR results
@@ -16,6 +16,8 @@ patterns = [
     r"(?<!\d)([1-9]|1[0-2])月(?!\d)",
     r"\b([1-9]|[12][0-9]|3[01])\b",
 ]
+
+page_index = 0
 
 # Search for the patterns in the OCR results
 for text in texts:

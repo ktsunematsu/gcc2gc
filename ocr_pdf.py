@@ -28,5 +28,5 @@ for page_index, img in enumerate(images):
     )
 
     # Save the response to a file
-    with open("response.pkl", "wb") as f:
+    with open(f"response_{page_index}.pkl", "wb") as f:
         pickle.dump(response, f)
