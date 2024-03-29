@@ -1,0 +1,258 @@
+<mxfile host="app.diagrams.net" modified="2024-03-29T05:30:37.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="V2T7GmxKf3AXbKGistur" version="24.2.1" type="device">
+  <diagram name="ページ1" id="iYy8CkWmcxPZNo_S7EjV">
+    <mxGraphModel dx="794" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7lvlWFBgdYUOqKI3D8_D-14" target="jSR7xDbqDdJNxiZ2pQN_-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="1400" />
+              <mxPoint x="414" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7lvlWFBgdYUOqKI3D8_D-14" value="月日" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-1" target="jSR7xDbqDdJNxiZ2pQN_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-1" value="ゴミ収集カレンダーPDF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-2" target="jSR7xDbqDdJNxiZ2pQN_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-2" value="OCR" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-12" target="jSR7xDbqDdJNxiZ2pQN_-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-12" target="jSR7xDbqDdJNxiZ2pQN_-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="820" />
+              <mxPoint x="260" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-12" target="jSR7xDbqDdJNxiZ2pQN_-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="820" />
+              <mxPoint x="110" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-12" target="jSR7xDbqDdJNxiZ2pQN_-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="820" />
+              <mxPoint x="570" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-47" target="jSR7xDbqDdJNxiZ2pQN_-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="820" />
+              <mxPoint x="730" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-12" value="文字と座標" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-16" value="画像に変換" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-35" target="jSR7xDbqDdJNxiZ2pQN_-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="1400" />
+              <mxPoint x="414" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-35" value="燃やす" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-36" target="jSR7xDbqDdJNxiZ2pQN_-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="1400" />
+              <mxPoint x="414" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-36" value="燃やさない" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-37" target="jSR7xDbqDdJNxiZ2pQN_-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-37" value="資源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-38" target="jSR7xDbqDdJNxiZ2pQN_-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-38" value="月" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-39" target="jSR7xDbqDdJNxiZ2pQN_-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-39" value="日" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-46" target="jSR7xDbqDdJNxiZ2pQN_-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="1640" />
+              <mxPoint x="329" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-46" target="jSR7xDbqDdJNxiZ2pQN_-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="1640" />
+              <mxPoint x="499" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-46" target="jSR7xDbqDdJNxiZ2pQN_-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="1640" />
+              <mxPoint x="159" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-46" target="jSR7xDbqDdJNxiZ2pQN_-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="1640" />
+              <mxPoint x="669" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-46" value="文字列周辺で支配的な色（HSV）を特定する" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="1480" width="321" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-12" target="jSR7xDbqDdJNxiZ2pQN_-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="570" as="sourcePoint" />
+            <mxPoint x="730" y="910" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-47" value="特定の文字列を検索する" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="660" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-54" value="座標から月日を特定する" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1130" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-54" target="7lvlWFBgdYUOqKI3D8_D-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-62" target="jSR7xDbqDdJNxiZ2pQN_-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="159" y="1800" />
+              <mxPoint x="329" y="1800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-62" value="燃やすの色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="99" y="1694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-63" target="jSR7xDbqDdJNxiZ2pQN_-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-63" value="燃やさないの色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="269" y="1694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-64" target="jSR7xDbqDdJNxiZ2pQN_-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="499" y="1800" />
+              <mxPoint x="329" y="1800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-64" value="資源の色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="1694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-65" target="jSR7xDbqDdJNxiZ2pQN_-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="669" y="2000" />
+              <mxPoint x="414" y="2000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-65" value="月日の色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="609" y="1694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-72" value="ゴミ種別と色の辞書" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="269" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="2270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-76" value="最も近い色のゴミ種別を割り当てる" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="281" y="2080" width="266" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-77" target="jSR7xDbqDdJNxiZ2pQN_-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-77" value="非収集日の色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="99" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-72" target="jSR7xDbqDdJNxiZ2pQN_-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="329" y="2000" />
+              <mxPoint x="414" y="2000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="2410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-82" value="月日とゴミ種別" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="2270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jSR7xDbqDdJNxiZ2pQN_-84" target="jSR7xDbqDdJNxiZ2pQN_-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="2560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-84" value="icsファイル作成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="356" y="2410" width="116" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jSR7xDbqDdJNxiZ2pQN_-86" value="ゴミ収集カレンダーics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="2560" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
